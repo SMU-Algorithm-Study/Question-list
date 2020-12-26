@@ -1,11 +1,11 @@
-# SMU 알고리즘 스터디
+# 👨‍💻 SMU 알고리즘 스터디 👩‍💻
 ---
 
-## 알고리즘 문제 사이트 
+## 💻 알고리즘 문제 사이트 
 [BAEKJOON](https://www.acmicpc.net/)  
 [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
-## Contributors
+## 💖 Contributors
 ID|Language
 :---:|:---:
 [hyeinlee725](https://github.com/hyeinlee725)|Python
@@ -14,7 +14,7 @@ ID|Language
 [mac0616](https://github.com/mac0616)|C  
 
 
-## 스터디 문제 목록
+## 🌟 스터디 문제 목록
 #### 작성방법
 ```
 <<백준>>
