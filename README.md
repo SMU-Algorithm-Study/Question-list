@@ -24,7 +24,7 @@ ID|Language
 [프] 문제번호 - 문제 이름[프] 문제번호 - 문제 이름
 ``````
 ex)
-[[백] 20366 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)[[백] 20366 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
+[[백] 20366 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
 
 ---
 
