@@ -4,6 +4,7 @@
 ## 💻 알고리즘 문제 사이트 
 [BAEKJOON](https://www.acmicpc.net/)  
 [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+<br>
 
 ## 💖 Contributors
 ID|Language
@@ -12,7 +13,7 @@ ID|Language
 [minji-o-j](https://github.com/minji-o-j)|Python
 [Nunu-0](https://github.com/Nunu-0)|Python
 [mac0616](https://github.com/mac0616)|C  
-
+<br>
 
 ## 🌟 스터디 문제 목록
 #### 작성방법
