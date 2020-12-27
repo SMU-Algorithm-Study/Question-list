@@ -13,7 +13,7 @@ ID|Language
 [minji-o-j](https://github.com/minji-o-j)|Python
 [Nunu-0](https://github.com/Nunu-0)|Python
 [mac0616](https://github.com/mac0616)|C  
-[challenger417]()|Java
+[challenger417](https://github.com/challenger417)|Java
 <br>
 
 ## 🌟 스터디 문제 목록
@@ -37,4 +37,5 @@ week2|21/01/04||||[Nunu-0](https://github.com/Nunu-0)
 week3|21/01/11||||[minji-o-j](https://github.com/minji-o-j)
 week4|21/01/18||||[hyeinlee725](https://github.com/hyeinlee725)
 week5|21/01/25||||[mac0616](https://github.com/mac0616)
+week5|21/02/01||||[challenger417](https://github.com/challenger417)
 
