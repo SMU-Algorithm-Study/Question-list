@@ -12,7 +12,6 @@ ID|Language
 [hyeinlee725](https://github.com/hyeinlee725)|Python
 [minji-o-j](https://github.com/minji-o-j)|Python
 [Nunu-0](https://github.com/Nunu-0)|Java / C++ 
-[challenger417](https://github.com/challenger417)|Java
 [eunhxx](https://github.com/eunhxx)|Python
 <br>
 
