@@ -36,7 +36,7 @@ week2|21/01/04|[[백] 11047 - 동전0](https://www.acmicpc.net/problem/11047)|[[
 week3|21/01/11|[[백] 18113 - 그르다 김가놈](https://www.acmicpc.net/problem/18113)|[[백] 20302 - 민트 초코](https://www.acmicpc.net/problem/20302)|[[백] 17951 - 흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)|[minji-o-j](https://github.com/minji-o-j)
 week4|21/01/18|[[백] 1012 - 유기농 배추](https://www.acmicpc.net/problem/1012)|[[백] 1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|[[백] 1089 - 스타트링크 타워](https://www.acmicpc.net/problem/1089)|[hyeinlee725](https://github.com/hyeinlee725)
 **week5**|21/01/25|[[백] 11501 - 주식](https://www.acmicpc.net/problem/11501)|[[백] 19598 - 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[[백] 1756 - 피자 굽기](https://www.acmicpc.net/problem/1756)|[eunhxx](https://github.com/eunhxx)
-week6|21/02/01||||[Nunu-0](https://github.com/Nunu-0)
+week6|21/02/01|[[백] 2168 - 타일 위의 대각선](https://www.acmicpc.net/problem/2168)|[[백] 5911 - 선물](https://www.acmicpc.net/problem/5911)|[[백] 9177 - 단어 섞기](https://www.acmicpc.net/problem/9177)|[Nunu-0](https://github.com/Nunu-0)
 week7|21/02/08||||[minji-o-j](https://github.com/minji-o-j)
 week8|21/02/15||||[hyeinlee725](https://github.com/hyeinlee725)
 week9|21/02/22||||[eunhxx](https://github.com/eunhxx)
