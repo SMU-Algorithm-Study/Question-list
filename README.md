@@ -39,8 +39,9 @@ week5|21/01/25|[[백] 11501 - 주식](https://www.acmicpc.net/problem/11501)|[[�
 week6|21/02/01|[[백] 2168 - 타일 위의 대각선](https://www.acmicpc.net/problem/2168)|[[백] 5911 - 선물](https://www.acmicpc.net/problem/5911)|[[백] 9177 - 단어 섞기](https://www.acmicpc.net/problem/9177)|[Nunu-0](https://github.com/Nunu-0)
 **week7**|21/02/08|[[백] 2617 - 구슬 찾기](https://www.acmicpc.net/problem/2617)|[[백] 2981 - 검문](https://www.acmicpc.net/problem/2981)|[[백] 9252 - LCS 2](https://www.acmicpc.net/problem/9252)|[minji-o-j](https://github.com/minji-o-j)
 week8|21/02/15|[[백] 6588 - 골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[[백] 2011 - 암호코드](https://www.acmicpc.net/problem/2011)|[[백] 17471 - 게리맨더링](https://www.acmicpc.net/problem/17471)|[hyeinlee725](https://github.com/hyeinlee725)
+<!--
 week9|21/02/22||||[eunhxx](https://github.com/eunhxx)
 week10|21/03/01||||[Nunu-0](https://github.com/Nunu-0)
 week11|21/03/08||||[minji-o-j](https://github.com/minji-o-j)
-week12|21/03/15||||[hyeinlee725](https://github.com/hyeinlee725)
+week12|21/03/15||||[hyeinlee725](https://github.com/hyeinlee725)-->
 week13|21/03/22||||[eunhxx](https://github.com/eunhxx)
