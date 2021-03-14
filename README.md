@@ -41,5 +41,5 @@ week7|21/02/08|[[백] 2617 - 구슬 찾기](https://www.acmicpc.net/problem/2617
 week8|21/02/15|[[백] 6588 - 골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[[백] 2011 - 암호코드](https://www.acmicpc.net/problem/2011)|[[백] 17471 - 게리맨더링](https://www.acmicpc.net/problem/17471)|[hyeinlee725](https://github.com/hyeinlee725)  
 week9|21/03/01|[[백] 3190 - 뱀](https://www.acmicpc.net/problem/3190)| x | x |[Nunu-0](https://github.com/Nunu-0)
 week10|21/03/08|[[백] 15954 - 인형들](https://www.acmicpc.net/problem/15954)|x|x|[minji-o-j](https://github.com/minji-o-j)
-week11|21/03/15||||[hyeinlee725](https://github.com/hyeinlee725)
+week11|21/03/15|[[백] 2343 - 기타 레슨](https://www.acmicpc.net/problem/2343)|x|x|[hyeinlee725](https://github.com/hyeinlee725)
 
