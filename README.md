@@ -47,5 +47,5 @@ week13|21/03/29|[[백] 20922 - 겹치는 건 싫어](https://www.acmicpc.net/pro
 week14|21/04/05||x|x|[eunhxx](https://github.com/eunhxx)
 week15|21/04/12||x|x|[Nunu-0](https://github.com/Nunu-0)
 week16|21/04/19||x|x|[minji-o-j](https://github.com/minji-o-j)
-week17|21/04/19||x|x|[hyeinlee725](https://github.com/hyeinlee725)
-week18|21/04/05||x|x|[eunhxx](https://github.com/eunhxx)
+week17|21/04/26||x|x|[hyeinlee725](https://github.com/hyeinlee725)
+week18|21/05/03||x|x|[eunhxx](https://github.com/eunhxx)
