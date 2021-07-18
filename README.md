@@ -52,7 +52,7 @@ week18|21/05/24|[[백] 17265 - 나의 인생에는 수학과 함께](https://www
 week19|21/06/28|[[프] 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[[프] 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[[프] 스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[minji-o-j](https://github.com/minji-o-j)
 week20|21/07/05|[[백] 17298 - 오큰수](https://www.acmicpc.net/problem/17298)|[[백] 10589 - 마법의 체스판](https://www.acmicpc.net/problem/10589)|[[프] 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[hyeinlee725](https://github.com/hyeinlee725)
 week21|21/07/12|[[백] 9024 - 두 수의 합](https://www.acmicpc.net/problem/9024)|[[프] 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[[프] 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[Nunu-0](https://github.com/Nunu-0)
-week22|21/07/19|[[프] 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[[프] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 가사 검색(https://programmers.co.kr/learn/courses/30/lessons/60060))|[minji-o-j](https://github.com/minji-o-j)
+week22|21/07/19|[[프] 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[[프] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)]|[[프] 가사 검색(https://programmers.co.kr/learn/courses/30/lessons/60060))|[minji-o-j](https://github.com/minji-o-j)
 week23|21/07/26||||[hyeinlee725](https://github.com/hyeinlee725)
 week24|21/08/02||||[eunhxx](https://github.com/eunhxx)
 week25|21/08/09||||[Nunu-0](https://github.com/Nunu-0)
