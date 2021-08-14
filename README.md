@@ -56,4 +56,6 @@ week22|21/07/19|[[프] 더 맵게](https://programmers.co.kr/learn/courses/30/le
 week23|21/07/26|[[프] 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[[프] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[[백] 1922 - 네트워크 연결](https://www.acmicpc.net/problem/1922)|[hyeinlee725](https://github.com/hyeinlee725)
 week24|21/08/02|[[프] 1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)|[[프] 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[[프] 징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)|[Nunu-0](https://github.com/Nunu-0)
 week25|21/08/09|[[프] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[[프] 경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|x|[minji-o-j](https://github.com/minji-o-j)
-week26|21/08/16||||[hyeinlee725](https://github.com/hyeinlee725)
+week26|21/08/16|[[프] 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 셔틀버스] (https://programmers.co.kr/learn/courses/30/lessons/17678)|x|[hyeinlee725](https://github.com/hyeinlee725)
+week27|21/08/23||||[Nunu-0](https://github.com/Nunu-0)
+week28|21/08/30||||[minji-o-j](https://github.com/minji-o-j)
