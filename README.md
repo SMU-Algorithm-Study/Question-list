@@ -61,4 +61,4 @@ week27|21/08/23|[[프][카카오 인턴] 보석 쇼핑](https://programmers.co.k
 week28|21/08/30|[[프] 4주차](https://programmers.co.kr/learn/courses/30/lessons/84325)|[[프] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|x|[minji-o-j](https://github.com/minji-o-j)
 week29|21/09/06|[[프] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|x|x|[hyeinlee725](https://github.com/hyeinlee725)
 week30|21/09/13|[[프] 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|x|x|[Nunu-0](https://github.com/Nunu-0)
-week31|21/09/20||||[minji-o-j](https://github.com/minji-o-j)
+week31|21/09/20|[[백] 2차원 배열의 합](https://www.acmicpc.net/problem/2167)|[[백] 시험 감독](https://www.acmicpc.net/problem/13458)|[[백] 근손실](https://www.acmicpc.net/problem/18429)|[minji-o-j](https://github.com/minji-o-j)
