@@ -65,3 +65,4 @@ week30|21/09/13|[[프] 튜플](https://programmers.co.kr/learn/courses/30/lesson
 week31|21/09/20|[[백] 2차원 배열의 합](https://www.acmicpc.net/problem/2167)|[[백] 시험 감독](https://www.acmicpc.net/problem/13458)|[[백] 근손실](https://www.acmicpc.net/problem/18429)|[minji-o-j](https://github.com/minji-o-j)
 week32|21/09/27|[[프] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[[백] 퇴사](https://www.acmicpc.net/problem/14501)|x|[hyeinlee725](https://github.com/hyeinlee725)
 week33|21/10/05|[[백] 집으로](https://www.acmicpc.net/problem/1069)|[[백] 다이아몬드 광산](https://www.acmicpc.net/problem/1028)|[[백] 스도쿠](https://www.acmicpc.net/problem/2580)|[kiteday](https://github.com/kiteday)
+week30|21/09/13|[[프] 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|x|x|[Nunu-0](https://github.com/Nunu-0)
