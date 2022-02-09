@@ -11,7 +11,7 @@ ID|Language
 :---:|:---:
 [hyeinlee725](https://github.com/hyeinlee725)|Python
 [minji-o-j](https://github.com/minji-o-j)|Python
-[Nunu-0](https://github.com/Nunu-0)|Java / C++ / Python 
+[Nunu-0](https://github.com/Nunu-0)|JavaScript 
 [eunhxx](https://github.com/eunhxx)|Python
 [kiteday](https://github.com/kiteday)|Python / C++
 <br>
@@ -76,4 +76,4 @@ ex)
 
 주차|시작 요일|문제1|문제2|문제3|문제 고른 사람
 :---:|:---:|:---:|:---:|:---:|:---:
-week34|22/01/17|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|x|[Nunu-0](https://github.com/Nunu-0)
+week34|22/02/07|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|x|[Nunu-0](https://github.com/Nunu-0)
