@@ -77,3 +77,4 @@ ex)
 주차|시작 요일|문제1|문제2|문제3|문제 고른 사람
 :---:|:---:|:---:|:---:|:---:|:---:
 week34|22/02/07|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|x|[Nunu-0](https://github.com/Nunu-0)
+week35|22/02/14|[[프] 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[[프] 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|x|[Nunu-0](https://github.com/Nunu-0)
