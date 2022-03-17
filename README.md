@@ -78,4 +78,4 @@ ex)
 :---:|:---:|:---:|:---:|:---:|:---:
 week34|22/02/07|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|x|[Nunu-0](https://github.com/Nunu-0)
 week35|22/02/14|[[프] 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[[프] 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|x|[Nunu-0](https://github.com/Nunu-0)
-week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[[프] H-Index](https://programmers.co.kr/learn/courses/30/lessons/42839)|x|[hyeinlee725](https://github.com/hyeinlee725)
+week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[[프] H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|x|[hyeinlee725](https://github.com/hyeinlee725)
