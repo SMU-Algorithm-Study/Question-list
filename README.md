@@ -7,15 +7,15 @@
 <br>
 
 ## 💖 Contributors
-ID|Language
+ID|Language|Status
 :---:|:---:
-[hyeinlee725](https://github.com/hyeinlee725)|Python / C++
-[minji-o-j](https://github.com/minji-o-j)|Python
-[Nunu-0](https://github.com/Nunu-0)|JavaScript 
-[eunhxx](https://github.com/eunhxx)|Python
-[kiteday](https://github.com/kiteday)|Python / C++
-[hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python
-[sh00-git](https://github.com/sh00-git)|Python
+[hyeinlee725](https://github.com/hyeinlee725)|Python / C++|🖤
+[minji-o-j](https://github.com/minji-o-j)|Python|🖤
+[Nunu-0](https://github.com/Nunu-0)|JavaScript |💗
+[eunhxx](https://github.com/eunhxx)|Python|🖤
+[kiteday](https://github.com/kiteday)|Python / C++|🖤
+[hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python|💗
+[sh00-git](https://github.com/sh00-git)|Python|💗
 <br>
 
 ## 🌟 스터디 문제 목록
