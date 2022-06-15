@@ -14,6 +14,8 @@ ID|Language
 [Nunu-0](https://github.com/Nunu-0)|JavaScript 
 [eunhxx](https://github.com/eunhxx)|Python
 [kiteday](https://github.com/kiteday)|Python / C++
+[hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python
+[sh00-git](https://github.com/sh00-git)|Python
 <br>
 
 ## 🌟 스터디 문제 목록
