@@ -79,3 +79,22 @@ ex)
 week34|22/02/07|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|x|[Nunu-0](https://github.com/Nunu-0)
 week35|22/02/14|[[프] 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[[프] 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|x|[Nunu-0](https://github.com/Nunu-0)
 week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[[프] H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|x|[hyeinlee725](https://github.com/hyeinlee725)
+
+### 💃프로그래머스 챌린지💃
+프로그래머스 문제를 차근차근 다 풀어보기! 
+#### 🌱 Level 1
+주차|시작 요일|월|화|수|목|금|문제 고른 사람
+:-:|:-:|:---:|:---:|:---:|:---:|:---:|:-:
+week37|22/06/06|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|[[프] 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[[프] 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|x|[Nunu-0](https://github.com/Nunu-0)
+week38|22/06/13|[[프] 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[[프] 없는 숫자 더하기]( https://programmers.co.kr/learn/courses/30/lessons/86051)|[[프] 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[[프] 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[[프] 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Nunu-0](https://github.com/Nunu-0)
+week39|22/06/20|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
+week40|22/06/27|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
+week41|22/07/04|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
+
+<!-- 🥚🐣🐥🐓
+<details>
+  <summary><h3> 토글 생성 </h3></summary>
+  <div markdown="1">
+  <br>
+  </div>
+</details> -->
