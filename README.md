@@ -17,6 +17,7 @@ ID|Language|Status
 [kiteday](https://github.com/kiteday)|Python / C++|🖤
 [hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python|💗
 [sh00-git](https://github.com/sh00-git)|Python|💗
+[HanNayeoniee](https://github.com/HanNayeoniee)|Python|💗
 <br>
 
 ## 🌟 스터디 문제 목록
