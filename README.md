@@ -10,7 +10,7 @@
 ## 💖 Contributors
 ID|Language|Status
 :---:|:---:|:---:
-[hyeinlee725](https://github.com/hyeinlee725)|Python / C++|🖤
+[hyeinlee725](https://github.com/hyeinlee725)|Python / C++|💗
 [minji-o-j](https://github.com/minji-o-j)|Python|🖤
 [Nunu-0](https://github.com/Nunu-0)|JavaScript |💗
 [eunhxx](https://github.com/eunhxx)|Python|🖤
