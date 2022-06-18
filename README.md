@@ -91,7 +91,7 @@ week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/
 :-:|:-:|:---:|:---:|:---:|:---:|:---:|:-:
 week37|22/06/06|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|[[프] 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[[프] 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|x|[Nunu-0](https://github.com/Nunu-0)
 week38|22/06/13|[[프] 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[[프] 없는 숫자 더하기]( https://programmers.co.kr/learn/courses/30/lessons/86051)|[[프] 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[[프] 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[[프] 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Nunu-0](https://github.com/Nunu-0)
-week39|22/06/20|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
+week39|22/06/20|[[프] 내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[[프] 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[[프] 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[[프] 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[[프] 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[Nunu-0](https://github.com/Nunu-0)
 week40|22/06/27|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
 week41|22/07/04|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[Nunu-0](https://github.com/Nunu-0)
 
