@@ -18,6 +18,7 @@ ID|Language|Status
 [hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python|💗
 [sh00-git](https://github.com/sh00-git)|Python|💗
 [HanNayeoniee](https://github.com/HanNayeoniee)|Python|💗
+[nahye03](https://github.com/nahye03)|Python|💗
 <br>
 
 ## 🌟 스터디 문제 목록
