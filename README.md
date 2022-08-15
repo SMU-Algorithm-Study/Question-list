@@ -100,7 +100,12 @@ week43|22/07/18|[[프] 핸드폰 번호 가리기](https://school.programmers.co
 week44|22/07/25|[[프] x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[[프] 가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|[[프] 나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|[[프] 서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[[프] 문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[nahye03](https://github.com/nahye03)
 week45|22/08/01|[[프] 두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[[프] 문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[[프] 문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[[프] 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[[프] 나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[hyeinlee725](https://github.com/hyeinlee725)
 week46|22/08/07|[[프] 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[[프] 제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[[프] 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[[프] 자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[Nunu-0](https://github.com/Nunu-0)
-week47|22/08/14|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
+week47|22/08/14|[[프] 문자열 압축
+](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 오픈채팅방
+](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 소수 찾기
+](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[[프] 가장 큰 수
+](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱
+](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[nahye03](https://github.com/nahye03)
 week48|22/08/21|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
 <!-- 🥚🐣🐥🐓
 <details>
