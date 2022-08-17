@@ -87,8 +87,12 @@ week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/
 
 ### 💃프로그래머스 챌린지💃
 프로그래머스 문제를 차근차근 다 풀어보기! 
-#### 🌱 Level 1
-주차|시작 요일|월|화|수|목|금|문제 고른 사람
+<details>
+  <summary><h3> 🌱 Level 1 </h3></summary>
+  <div markdown="1">
+  <br>
+  
+  주차|시작 요일|월|화|수|목|금|문제 고른 사람
 :-:|:-:|:---:|:---:|:---:|:---:|:---:|:-:
 week37|22/06/06|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/courses/30/lessons/64061)|x|[[프] 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[[프] 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|x|[Nunu-0](https://github.com/Nunu-0)
 week38|22/06/13|[[프] 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[[프] 없는 숫자 더하기]( https://programmers.co.kr/learn/courses/30/lessons/86051)|[[프] 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[[프] 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[[프] 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Nunu-0](https://github.com/Nunu-0)
@@ -100,9 +104,17 @@ week43|22/07/18|[[프] 핸드폰 번호 가리기](https://school.programmers.co
 week44|22/07/25|[[프] x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[[프] 가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|[[프] 나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|[[프] 서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[[프] 문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[nahye03](https://github.com/nahye03)
 week45|22/08/01|[[프] 두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[[프] 문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[[프] 문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[[프] 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[[프] 나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[hyeinlee725](https://github.com/hyeinlee725)
 week46|22/08/07|[[프] 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[[프] 제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[[프] 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[[프] 자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[Nunu-0](https://github.com/Nunu-0)
+week47|22/08/14|[[프] 문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[[프] 약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|[[프] 정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[[프] 정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[[프] 짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[Nunu-0](https://github.com/Nunu-0)
+week48|22/08/21|[[프] 자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[[프] 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[[프] 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[[프] 평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[[프]행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|[Nunu-0](https://github.com/Nunu-0)
+  </div>
+</details>
+
+### 🥚 Level 2
+주차|시작 요일|월|화|수|목|금|문제 고른 사람
+:-:|:-:|:---:|:---:|:---:|:---:|:---:|:-:
 week47|22/08/14|[[프] 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[[프] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[nahye03](https://github.com/nahye03)
 week48|22/08/21|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
-<!-- 🥚🐣🐥🐓
+<!-- 🐣🐥🐓
 <details>
   <summary><h3> 토글 생성 </h3></summary>
   <div markdown="1">
