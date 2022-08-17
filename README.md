@@ -15,8 +15,8 @@ ID|Language|Status
 [Nunu-0](https://github.com/Nunu-0)|JavaScript |💗
 [eunhxx](https://github.com/eunhxx)|Python|🖤
 [kiteday](https://github.com/kiteday)|Python / C++|🖤
-[hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python|💗
-[sh00-git](https://github.com/sh00-git)|Python|💗
+[hyunjoolee201910828](https://github.com/hyunjoolee201910828)|Python|🖤
+[sh00-git](https://github.com/sh00-git)|Python|🖤
 [HanNayeoniee](https://github.com/HanNayeoniee)|Python|💗
 [nahye03](https://github.com/nahye03)|Python|💗
 <br>
@@ -35,7 +35,7 @@ ex)
 
 ---
 <details>
-  <summary><b> 2020/2021년 문제 </b></summary>
+  <summary><b> 📝 2020/2021년 문제 </b></summary>
   <div markdown="1">
   <br>
     
@@ -76,8 +76,10 @@ ex)
   week33|21/10/05|[[백] 집으로](https://www.acmicpc.net/problem/1069)|[[백] 다이아몬드 광산](https://www.acmicpc.net/problem/1028)|[[백] 스도쿠](https://www.acmicpc.net/problem/2580)|[kiteday](https://github.com/kiteday)
   </div>
 </details>
-
-## 📝 2022년 문제
+<details>
+  <summary><b> 📝 2022년 1분기 문제 </b></summary> 
+  <div markdown="1">
+  <br>
 
 주차|시작 요일|문제1|문제2|문제3|문제 고른 사람
 :---:|:---:|:---:|:---:|:---:|:---:
@@ -85,7 +87,12 @@ week34|22/02/07|[[프] 크레인 인형뽑기 ](https://programmers.co.kr/learn/
 week35|22/02/14|[[프] 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[[프] 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|x|[Nunu-0](https://github.com/Nunu-0)
 week36|22/02/28|[[프] 소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[[프] H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|x|[hyeinlee725](https://github.com/hyeinlee725)
 
-### 💃프로그래머스 챌린지💃
+  </div>
+</details>
+
+-----
+
+## 💃2022 프로그래머스 챌린지💃
 프로그래머스 문제를 차근차근 다 풀어보기! 
 <details>
   <summary><h3> 🌱 Level 1 </h3></summary>
@@ -110,13 +117,16 @@ week48|22/08/21|[[프] 자릿수 더하기](https://school.programmers.co.kr/lea
 </details>
 
 ### 🥚 Level 2
-주차|시작 요일|월|화|수|목|금|문제 고른 사람
-:-:|:-:|:---:|:---:|:---:|:---:|:---:|:-:
-week47|22/08/14|[[프] 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[[프] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[nahye03](https://github.com/nahye03)
-week48|22/08/21|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
+주차|시작 요일|문제1|문제2|문제3|문제 고른 사람
+:-:|:-:|:---:|:---:|:---:|:-:
+week47|22/08/14|[[프] 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[nahye03](https://github.com/nahye03)
+week48|22/08/21|[[프] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[[프] 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[username](https://github.com/username)
+week48|22/08/21|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
+
+
 <!-- 🐣🐥🐓
 <details>
-  <summary><h3> 토글 생성 </h3></summary>
+  <summary><h3> 토글 생성 </h3></summary> 
   <div markdown="1">
   <br>
   </div>
