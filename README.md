@@ -121,7 +121,8 @@ week48|22/08/21|[[프] 자릿수 더하기](https://school.programmers.co.kr/lea
 :-:|:-:|:---:|:---:|:---:|:-:
 week47|22/08/14|[[프] 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[[프] 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[[프] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[nahye03](https://github.com/nahye03)
 week48|22/08/21|[[프] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[[프] 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[username](https://github.com/username)
-week48|22/08/21|[[프] 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[[프] 124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[[프] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[hyeinlee725](https://github.com/hyeinlee725)
+week49|22/08/28|[[프] 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[[프] 124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[[프] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[hyeinlee725](https://github.com/hyeinlee725)
+week50|22/09/12|[[프] 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[[프] 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[[프] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[nahye03](https://github.com/nahye03)
 
 
 <!-- 🐣🐥🐓
