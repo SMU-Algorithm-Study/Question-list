@@ -123,6 +123,9 @@ week47|22/08/14|[[프] 문자열 압축](https://school.programmers.co.kr/learn/
 week48|22/08/21|[[프] 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[[프] 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[[프] 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[username](https://github.com/username)
 week49|22/08/28|[[프] 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[[프] 124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[[프] 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[hyeinlee725](https://github.com/hyeinlee725)
 week50|22/09/12|[[프] 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[[프] 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[[프] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[nahye03](https://github.com/nahye03)
+week51|22/09/19|[[프] 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[[프] 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[[프] [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[Nunu-0](https://github.com/Nunu-0)
+week52|22/09/26|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
+week53|22/10/03|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
 
 
 <!-- 🐣🐥🐓
