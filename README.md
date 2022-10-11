@@ -126,7 +126,7 @@ week49|22/08/28|[[프] 두 큐 합 같게 만들기](https://school.programmers.
 week50|22/09/12|[[프] 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[[프] 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[[프] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[nahye03](https://github.com/nahye03)
 week51|22/09/19|[[프] 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[[프] 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[[프] [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[Nunu-0](https://github.com/Nunu-0)
 week52|22/09/26|[[프] 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[[프] 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[[프] 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[hyeinlee725](https://github.com/hyeinlee725)
-week53|22/10/03|[[프] ]()|[[프] ]()|[[프] ]()|[username](https://github.com/username)
+week53|22/10/03|[[프] 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[[프] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[[프] N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[nahye03](https://github.com/nahye03)
 
 
 <!-- 🐣🐥🐓
